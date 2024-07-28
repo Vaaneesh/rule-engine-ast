@@ -52,9 +52,9 @@ The Rule Engine AST is a web application designed to create, combine, and evalua
         npm start
         ```
 
-    ![API check](./postman_create_rule.png)
-    ![API check](./postman_combine_rules.png)
-    ![API check](./postman_evaluate_rule.png)
+    ![API check](./create_rule(postman).png)
+    ![API check](./combine_rule(Postman).png)
+    ![API check](./evaluate%20rule.png)
 
 3. **Frontend Setup**
 
