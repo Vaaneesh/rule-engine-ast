@@ -1,0 +1,17 @@
+{
+    "name": "rule-engine-ast",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "concurrently \"npm run server\" \"npm run client\"",
+      "server": "cd backend && nodemon index.js",
+      "client": "cd frontend && npm start"
+    },
+    "dependencies": {
+      "concurrently": "^7.0.0"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.12"
+    }
+  }
+  
